@@ -1,0 +1,14 @@
+C:\Users\abhishek.kumar\source\Lodge\Lodge\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\abhishek.kumar\source\Lodge\Lodge\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\abhishek.kumar\source\Lodge\Lodge\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\abhishek.kumar\source\Lodge\Lodge\bin\Debug\netcoreapp2.1\Lodge.deps.json
+C:\Users\abhishek.kumar\source\Lodge\Lodge\bin\Debug\netcoreapp2.1\Lodge.runtimeconfig.json
+C:\Users\abhishek.kumar\source\Lodge\Lodge\bin\Debug\netcoreapp2.1\Lodge.runtimeconfig.dev.json
+C:\Users\abhishek.kumar\source\Lodge\Lodge\bin\Debug\netcoreapp2.1\Lodge.dll
+C:\Users\abhishek.kumar\source\Lodge\Lodge\obj\Debug\netcoreapp2.1\Lodge.csproj.CoreCompileInputs.cache
+C:\Users\abhishek.kumar\source\Lodge\Lodge\obj\Debug\netcoreapp2.1\Lodge.AssemblyInfoInputs.cache
+C:\Users\abhishek.kumar\source\Lodge\Lodge\obj\Debug\netcoreapp2.1\Lodge.AssemblyInfo.cs
+C:\Users\abhishek.kumar\source\Lodge\Lodge\bin\Debug\netcoreapp2.1\Lodge.pdb
+C:\Users\abhishek.kumar\source\Lodge\Lodge\obj\Debug\netcoreapp2.1\Lodge.dll
+C:\Users\abhishek.kumar\source\Lodge\Lodge\obj\Debug\netcoreapp2.1\Lodge.pdb
+C:\Users\abhishek.kumar\source\Lodge\Lodge\obj\Debug\netcoreapp2.1\Lodge.csprojAssemblyReference.cache
